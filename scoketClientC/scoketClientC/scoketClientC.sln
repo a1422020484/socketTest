@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scoketClientC", "scoketClientC.vcxproj", "{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "..\..\..\..\coco2d\project1\HelloWorld\proj.win32\HelloWorld.vcxproj", "{4D46DF7E-6B0A-4F0B-8861-D3F21B7A98C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}.Debug|x64.ActiveCfg = Debug|x64
+		{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}.Debug|x64.Build.0 = Debug|x64
+		{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}.Debug|x86.Build.0 = Debug|Win32
+		{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}.Release|x64.ActiveCfg = Release|x64
+		{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}.Release|x64.Build.0 = Release|x64
+		{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}.Release|x86.ActiveCfg = Release|Win32
+		{5A3F1354-569F-42F8-8DCA-933A6E0FDE65}.Release|x86.Build.0 = Release|Win32
+		{4D46DF7E-6B0A-4F0B-8861-D3F21B7A98C6}.Debug|x64.ActiveCfg = Debug|Win32
+		{4D46DF7E-6B0A-4F0B-8861-D3F21B7A98C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D46DF7E-6B0A-4F0B-8861-D3F21B7A98C6}.Debug|x86.Build.0 = Debug|Win32
+		{4D46DF7E-6B0A-4F0B-8861-D3F21B7A98C6}.Release|x64.ActiveCfg = Release|Win32
+		{4D46DF7E-6B0A-4F0B-8861-D3F21B7A98C6}.Release|x86.ActiveCfg = Release|Win32
+		{4D46DF7E-6B0A-4F0B-8861-D3F21B7A98C6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
